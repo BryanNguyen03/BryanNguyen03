@@ -5,8 +5,8 @@
 ### I'm an undergraduate student at Toronto Metropolitan University
 
 * 1️⃣ I am currently a first year student
-* 🐍 I am proficient in Java and Python
-* 🥅 My current goals are to learn C and create a project using Java, Python and C 
+* 🐍 I am proficient in Java, Python, C
+* 🥅 My current goals are to learn more about C/C++ and to create more personal projects
 * 🏐 I love playing Volleyball
 
 ---
