@@ -6,7 +6,7 @@
 
 * 1️⃣ I am currently a first year student
 * 🐍 I am proficient in Java, Python, C
-* 🥅 My current goals are to learn more about C/C++ and to create more personal projects
+* 🥅 My current goal is to continue developing my skills and create more personal projects
 * 🏐 I love playing Volleyball
 
 ---
