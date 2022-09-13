@@ -8,8 +8,9 @@
 * 🏀 I love playing sports
 * 🚀 I want to continue to hone and improve my skills as a programmer
 
-
-* [<img src="images/LinkedinIcon.png" width="20">](https://www.linkedin.com/in/bryan-nguyen-2a6066220/) You can view my Linkedin profile by clicking on the icon
+### Contact Me
+* <a href="https://www.linkedin.com/in/bryan-nguyen-2a6066220/">Linkedin</a>
+* Bryan2.nguyen@ryerson.ca
 
 ---
 
@@ -23,5 +24,6 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<br>
+---
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryannguyen03&show_icons=true&locale=en&layout=compact&theme=dark&hide-border=true" alt="Bryannguyen03"/></p>
