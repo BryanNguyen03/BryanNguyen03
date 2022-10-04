@@ -9,7 +9,7 @@
 * 🚀 I want to continue to hone and improve my skills as a programmer
 
 ### Contact Me
-* <a href="https://www.linkedin.com/in/bryan-nguyen-2a6066220/">Linkedin</a>
+* <a href="https://www.linkedin.com/in/bryan-nguyen/">Linkedin</a>
 * Bryan2.nguyen@ryerson.ca
 
 ---
