@@ -11,6 +11,7 @@
 ### Contact Me
 * <a href="https://www.linkedin.com/in/bryan-nguyen/">Linkedin</a>
 * Bryan2.nguyen@ryerson.ca
+* <a href="https://bryannguyen03.github.io/">My Portfolio Website</a>
 
 ---
 
