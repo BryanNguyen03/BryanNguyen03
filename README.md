@@ -4,8 +4,8 @@
 const about = {
   name: "Bryan Nguyen",
   experience: {
-    curr: "TBA",
-    prev: "Data Engineer Intern @ WSIB | Co-op Student @ Exceed Robotics",
+    curr: "Incoming Full-Stack Developer @ WSIB Innovation Lab",
+    prev: "Data Engineer Associate @ WSIB | Co-op Student @ Exceed Robotics",
     edu: "3rd Year CS Student @ TMU (Formerly Ryerson University)",
   },
   links: {
